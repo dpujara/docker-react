@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hi Thereeee yes Brohhh teah 12346..
+            Docker container deployed on AWS using Travis CI and Elasticbeanstalk..
           </p>
           <a
             className="App-link"
